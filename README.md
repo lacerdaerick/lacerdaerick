@@ -5,7 +5,7 @@
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacerdaerick)
-[![Portfolio](https://img.shields.io/badge/Ver_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lacerdaerick.github.io/chatbot/portfolio)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://lacerdaerick.github.io/chatbot/portfolio](https://lacerdaerick.github.io/lacerdaerick/))
 
 </div>
 
