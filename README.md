@@ -9,10 +9,6 @@ Portfólio pessoal desenvolvido para apresentar projetos, experiências e habili
 
 Este é meu portfólio pessoal onde compartilho minha jornada como desenvolvedor frontend. Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário ENIAC em Guarulhos, São Paulo.
 
-## Acesse o Portfólio
-
-[https://lacerdaerick.github.io/lacerdaerick/](https://lacerdaerick.github.io/lacerdaerick/)
-
 ## Tecnologias Utilizadas
 
 - HTML5
@@ -37,10 +33,6 @@ Sistema completo desenvolvido com Node.js, Express, Socket.IO e JavaScript, inte
 ## Responsivo
 
 O portfólio é totalmente responsivo e otimizado para dispositivos móveis, tablets e desktops.
-
-## Contato
-
-- GitHub: [@lacerdaerick](https://github.com/lacerdaerick)
 
 ---
 
